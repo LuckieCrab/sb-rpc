@@ -1,0 +1,3 @@
+@echo
+
+node index.js

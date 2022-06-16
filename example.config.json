@@ -1,0 +1,9 @@
+{
+    "token": "BOT_TOKEN",
+    "id": "APPLICATION_ID",
+    "channeld": "CHANNEL_ID", 
+    "authorId": "MUSIC_BOT_ID(DEFAULT(StormBeatz)=768268608639598624)",
+    "vcId": "VOICE_CHANNEL_ID",
+    "path": "PATH_TO_FILES(DEFAULT=./presence/)",
+    "url": "WEBHOOK_URL"
+}
